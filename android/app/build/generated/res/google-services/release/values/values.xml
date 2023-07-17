@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">854721704133-cj6eua3av0c8m4ho6c3kmvqt2ib6ont4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">854721704133</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKy9Gkjv29ByHYzn0FfvE7j1NxMsVbZ-4</string>
+    <string name="google_app_id" translatable="false">1:854721704133:android:5255d06fd0cc496e9b00ac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKy9Gkjv29ByHYzn0FfvE7j1NxMsVbZ-4</string>
+    <string name="google_storage_bucket" translatable="false">doctana-881e9.appspot.com</string>
+    <string name="project_id" translatable="false">doctana-881e9</string>
+</resources>

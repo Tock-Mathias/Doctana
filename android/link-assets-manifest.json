@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/HammersmithOne-Regular.ttf",
+      "sha1": "fb977bc7b84aff62bbbc8c7a2f053da4ad3bb21e"
+    },
+    {
+      "path": "src/assets/fonts/Inter-semibold.ttf",
+      "sha1": "44b415f3b0ac1da7f3044ba6bcc542a649d4a447"
+    },
+    {
+      "path": "src/assets/fonts/Inter.ttf",
+      "sha1": "44b415f3b0ac1da7f3044ba6bcc542a649d4a447"
+    }
+  ]
+}

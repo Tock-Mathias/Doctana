@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854721704133",
+    "project_id": "doctana-881e9",
+    "storage_bucket": "doctana-881e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854721704133:android:5255d06fd0cc496e9b00ac",
+        "android_client_info": {
+          "package_name": "com.doctana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854721704133-cj6eua3av0c8m4ho6c3kmvqt2ib6ont4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKy9Gkjv29ByHYzn0FfvE7j1NxMsVbZ-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854721704133-cj6eua3av0c8m4ho6c3kmvqt2ib6ont4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
